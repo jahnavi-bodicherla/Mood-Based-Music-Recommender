@@ -1,0 +1,201 @@
+song,artist,mood,language,genre,energy,valence,tempo,popularity,age_group
+Happy,Pharrell Williams,happy,English,Pop,0.861,0.707,119,88,Young Adult
+Can't Stop the Feeling,Justin Timberlake,happy,English,Pop,0.696,0.729,152,85,Teen
+Shake It Off,Taylor Swift,happy,English,Pop,0.845,0.709,107,90,Young Adult
+Uptown Funk,Mark Ronson,happy,English,Funk,0.817,0.707,114,92,Senior
+Levitating,Dua Lipa,happy,English,Pop,0.723,0.865,157,89,Teen
+Blinding Lights,The Weeknd,happy,English,Synth-Pop,0.9,0.745,130,95,Adult
+Shape of You,Ed Sheeran,happy,English,Pop,0.701,0.968,124,93,Teen
+Don't Stop Me Now,Queen,happy,English,Rock,0.775,0.801,124,91,Adult
+September,Earth Wind and Fire,happy,English,Funk,0.916,0.904,138,85,Senior
+Three Little Birds,Bob Marley,happy,English,Reggae,0.676,0.782,144,82,Adult
+Badtameez Dil,Pritam,happy,Hindi,Bollywood,0.841,0.897,103,86,Young Adult
+London Thumakda,Sachin-Jigar,happy,Hindi,Bollywood,0.905,0.976,160,84,Teen
+Kar Har Maidaan Fateh,Pritam,happy,Hindi,Bollywood,0.775,0.827,158,87,Young Adult
+Gallan Goodiyaan,Various,happy,Hindi,Bollywood,0.772,0.759,119,83,Teen
+Jai Ho,A.R.Rahman,happy,Hindi,Bollywood,0.851,0.748,151,85,Young Adult
+Naatu Naatu,M.M.Keeravani,happy,Telugu,Folk,0.803,0.776,165,95,Young Adult
+Butta Bomma,Armaan Malik,happy,Telugu,Pop,0.876,0.936,154,84,Young Adult
+Vaathi Coming,Anirudh,happy,Tamil,Film,0.921,0.925,128,88,Teen
+Rowdy Baby,Yuvan,happy,Tamil,Film,0.72,0.964,161,86,Adult
+Enjoy Enjaami,Santhosh Narayanan,happy,Tamil,Folk,0.72,0.84,162,84,Senior
+Someone Like You,Adele,sad,English,Pop,0.149,0.092,84,90,Adult
+When the Party's Over,Billie Eilish,sad,English,Pop,0.354,0.179,76,87,Adult
+Fix You,Coldplay,sad,English,Alternative,0.175,0.349,73,88,Teen
+Let Her Go,Passenger,sad,English,Folk,0.357,0.308,57,84,Young Adult
+Wish You Were Here,Pink Floyd,sad,English,Rock,0.369,0.177,53,88,Senior
+Tears in Heaven,Eric Clapton,sad,English,Rock,0.303,0.19,61,85,Teen
+The Sound of Silence,Simon and Garfunkel,sad,English,Folk,0.331,0.084,90,87,Adult
+Everybody Hurts,R.E.M.,sad,English,Alternative,0.361,0.152,63,82,Young Adult
+Hurt,Johnny Cash,sad,English,Country,0.254,0.336,89,84,Adult
+All I Want,Kodaline,sad,English,Indie,0.43,0.279,73,80,Teen
+Channa Mereya,Pritam,sad,Hindi,Bollywood,0.396,0.14,79,88,Young Adult
+Agar Tum Saath Ho,A.R.Rahman,sad,Hindi,Bollywood,0.152,0.279,74,89,Teen
+Tum Hi Ho,Arijit Singh,sad,Hindi,Bollywood,0.304,0.197,55,92,Adult
+Kabhi Kabhi,Kishore Kumar,sad,Hindi,Classic,0.399,0.299,64,78,Teen
+Phir Mohabbat,Mohit Chauhan,sad,Hindi,Bollywood,0.182,0.22,54,80,Senior
+Vachindamma,Sid Sriram,sad,Telugu,Film,0.377,0.343,74,83,Young Adult
+Inkem Inkem,Gopi Sundar,sad,Telugu,Film,0.144,0.193,75,85,Adult
+Vellai Pookal,A.R.Rahman,sad,Tamil,Film,0.279,0.232,93,76,Young Adult
+Kannazhaga,Various,sad,Tamil,Film,0.342,0.17,80,78,Adult
+Nenjukkul Peidhidum,Harris Jayaraj,sad,Tamil,Film,0.249,0.205,55,77,Young Adult
+Thunderstruck,AC/DC,energetic,English,Rock,0.831,0.361,172,87,Young Adult
+Till I Collapse,Eminem,energetic,English,Hip-Hop,0.821,0.704,130,85,Teen
+Believer,Imagine Dragons,energetic,English,Alternative,0.974,0.78,131,88,Young Adult
+Wake Me Up,Avicii,energetic,English,EDM,0.867,0.593,171,90,Senior
+Can't Hold Us,Macklemore,energetic,English,Hip-Hop,0.861,0.586,160,84,Teen
+Eye of the Tiger,Survivor,energetic,English,Rock,0.836,0.566,161,89,Senior
+Lose Yourself,Eminem,energetic,English,Hip-Hop,0.967,0.377,181,91,Teen
+Natural,Imagine Dragons,energetic,English,Alternative,0.83,0.714,193,85,Teen
+Faded,Alan Walker,energetic,English,EDM,0.862,0.445,163,87,Senior
+Animals,Martin Garrix,energetic,English,EDM,0.851,0.581,199,85,Teen
+Ghungroo,Vishal-Shekhar,energetic,Hindi,Bollywood,0.895,0.781,172,88,Teen
+Malhari,Vishal-Shekhar,energetic,Hindi,Bollywood,0.931,0.62,126,85,Teen
+Sultan Title Track,Vishal-Shekhar,energetic,Hindi,Bollywood,0.977,0.774,139,84,Senior
+Oo Antava,DSP,energetic,Telugu,Film,0.902,0.782,202,90,Young Adult
+Ramuloo Ramulaa,Thaman S,energetic,Telugu,Film,0.884,0.843,148,85,Senior
+Dhee,Anirudh,energetic,Tamil,Hip-Hop,0.868,0.698,187,86,Senior
+Jolly O Gymkhana,Leon James,energetic,Tamil,Film,0.846,0.498,207,84,Teen
+Stronger,Kanye West,energetic,English,Hip-Hop,0.947,0.379,175,86,Young Adult
+Pump It,Black Eyed Peas,energetic,English,Hip-Hop,0.83,0.604,197,83,Teen
+Enter Sandman,Metallica,energetic,English,Metal,0.921,0.688,145,86,Teen
+Weightless,Marconi Union,relaxed,English,Ambient,0.399,0.539,74,76,Teen
+The Scientist,Coldplay,relaxed,English,Alternative,0.283,0.476,74,87,Adult
+Banana Pancakes,Jack Johnson,relaxed,English,Folk,0.396,0.386,81,83,Young Adult
+Better Together,Jack Johnson,relaxed,English,Folk,0.156,0.355,77,81,Senior
+Riptide,Vance Joy,relaxed,English,Indie,0.174,0.616,49,84,Senior
+Ho Hey,The Lumineers,relaxed,English,Folk,0.284,0.536,50,82,Young Adult
+Golden Hour,JVKE,relaxed,English,Pop,0.242,0.356,62,86,Teen
+River Flows in You,Yiruma,relaxed,English,Classical,0.377,0.455,53,80,Adult
+Holocene,Bon Iver,relaxed,English,Indie Folk,0.28,0.715,78,79,Teen
+Coffee,beabadoobee,relaxed,English,Indie,0.3,0.533,92,82,Teen
+Raabta,Pritam,relaxed,Hindi,Bollywood,0.398,0.356,51,83,Teen
+Ae Dil Hai Mushkil,Pritam,relaxed,Hindi,Bollywood,0.327,0.365,59,87,Young Adult
+Lag Ja Gale,Lata Mangeshkar,relaxed,Hindi,Classic,0.318,0.386,77,79,Adult
+Dil Diyan Gallan,Atif Aslam,relaxed,Hindi,Bollywood,0.242,0.405,90,85,Teen
+Inkem Inkem Kaavaale,Gopi Sundar,relaxed,Telugu,Film,0.093,0.478,59,84,Teen
+Oke Oka Lokam,Various,relaxed,Telugu,Film,0.18,0.355,94,80,Young Adult
+Ilamai Itho Itho,Various,relaxed,Tamil,Film,0.327,0.532,66,77,Teen
+Gymnopedie No 1,Erik Satie,relaxed,English,Classical,0.1,0.697,80,74,Young Adult
+Experience,Ludovico Einaudi,relaxed,English,Classical,0.256,0.651,74,83,Young Adult
+Georgia,Vance Joy,relaxed,English,Indie,0.215,0.318,63,84,Teen
+Perfect,Ed Sheeran,romantic,English,Pop,0.64,0.6,74,95,Teen
+All of Me,John Legend,romantic,English,R&B,0.421,0.733,108,94,Young Adult
+A Thousand Years,Christina Perri,romantic,English,Pop,0.65,0.61,69,92,Young Adult
+Can't Help Falling in Love,Elvis Presley,romantic,English,Pop,0.633,0.529,101,93,Adult
+Thinking Out Loud,Ed Sheeran,romantic,English,Pop,0.593,0.676,97,91,Young Adult
+Just the Way You Are,Bruno Mars,romantic,English,Pop,0.387,0.819,66,90,Teen
+Yellow,Coldplay,romantic,English,Alternative,0.623,0.605,105,89,Senior
+Make You Feel My Love,Adele,romantic,English,Pop,0.42,0.832,108,89,Young Adult
+At Last,Etta James,romantic,English,Soul,0.289,0.593,78,86,Teen
+Marry You,Bruno Mars,romantic,English,Pop,0.667,0.626,95,88,Senior
+Tum Hi Ho,Arijit Singh,romantic,Hindi,Bollywood,0.552,0.841,78,92,Teen
+Teri Meri,Rahet Fateh Ali Khan,romantic,Hindi,Bollywood,0.326,0.889,70,87,Adult
+Pehla Nasha,Udit Narayan,romantic,Hindi,Classic,0.295,0.747,79,84,Adult
+Hasi,Ami Misra,romantic,Hindi,Bollywood,0.455,0.894,66,84,Young Adult
+Tera Ban Jaunga,Akhil Sachdeva,romantic,Hindi,Bollywood,0.382,0.789,60,86,Young Adult
+Tere Bina,A.R.Rahman,romantic,Hindi,Bollywood,0.426,0.547,97,83,Adult
+O Priya Priya,Various,romantic,Telugu,Film,0.529,0.772,67,81,Adult
+Nuvvu Nuvvu,Various,romantic,Telugu,Film,0.483,0.773,78,80,Adult
+Manasaare,Various,romantic,Tamil,Film,0.502,0.593,97,79,Senior
+Kadhal Sugamanathu,Various,romantic,Tamil,Film,0.551,0.863,94,81,Adult
+Killing in the Name,Rage Against the Machine,angry,English,Metal,0.847,0.308,144,87,Young Adult
+Break Stuff,Limp Bizkit,angry,English,Nu-Metal,0.853,0.23,172,83,Senior
+Chop Suey,System of a Down,angry,English,Metal,0.856,0.259,161,85,Young Adult
+Numb,Linkin Park,angry,English,Nu-Metal,0.908,0.138,173,87,Adult
+In the End,Linkin Park,angry,English,Nu-Metal,0.772,0.345,139,90,Adult
+The Pretender,Foo Fighters,angry,English,Rock,0.804,0.112,122,85,Young Adult
+Toxicity,System of a Down,angry,English,Metal,0.986,0.239,181,86,Senior
+Bodies,Drowning Pool,angry,English,Nu-Metal,0.849,0.245,136,80,Senior
+Master of Puppets,Metallica,angry,English,Metal,0.869,0.126,172,88,Teen
+Bulls on Parade,Rage Against the Machine,angry,English,Metal,0.964,0.317,191,83,Senior
+Sultan Battle,Vishal-Shekhar,angry,Hindi,Bollywood,0.803,0.299,176,82,Senior
+Mere Gully Mein,Various,angry,Hindi,Hip-Hop,0.762,0.127,188,80,Senior
+Oo Antava Bass,DSP,angry,Telugu,Film,0.782,0.194,162,84,Adult
+Beast Mode,Various,angry,Tamil,Hip-Hop,0.978,0.326,169,79,Senior
+Psychosocial,Slipknot,angry,English,Metal,0.949,0.22,192,83,Senior
+Given Up,Linkin Park,angry,English,Nu-Metal,0.858,0.283,187,82,Adult
+Crawling,Linkin Park,angry,English,Nu-Metal,0.934,0.212,170,84,Adult
+Down with the Sickness,Disturbed,angry,English,Nu-Metal,0.856,0.271,139,84,Adult
+B.Y.O.B.,System of a Down,angry,English,Metal,0.827,0.217,131,85,Young Adult
+Guerrilla Radio,RATM,angry,English,Metal,0.842,0.097,137,82,Senior
+Lofi Hip Hop Study,Lofi Girl,chill,English,Lo-Fi,0.372,0.64,85,85,Young Adult
+Electric Feel,MGMT,chill,English,Indie,0.5,0.586,97,83,Teen
+Intro,The xx,chill,English,Indie,0.507,0.718,83,84,Teen
+Young Folks,Peter Bjorn and John,chill,English,Indie,0.533,0.555,84,80,Senior
+To Build a Home,The Cinematic Orchestra,chill,English,Post-Rock,0.411,0.707,98,82,Young Adult
+Teardrop,Massive Attack,chill,English,Trip-Hop,0.396,0.546,87,84,Senior
+Sunset Lover,Petit Biscuit,chill,English,Electronic,0.351,0.688,84,83,Young Adult
+Vanilla Twilight,Owl City,chill,English,Electronic,0.502,0.772,104,82,Teen
+Tum Mile,Pritam,chill,Hindi,Bollywood,0.522,0.657,93,83,Teen
+Kabira,Pritam,chill,Hindi,Bollywood,0.443,0.497,86,86,Teen
+O Re Piya,Rahat Fateh Ali Khan,chill,Hindi,Bollywood,0.328,0.565,86,81,Adult
+Beete Lamhe,KK,chill,Hindi,Bollywood,0.478,0.583,96,80,Senior
+Adiga Adiga,Various,chill,Telugu,Film,0.326,0.479,71,80,Teen
+Ilamai Itho Itho,Various,chill,Tamil,Film,0.55,0.572,93,77,Teen
+Coffee Poove,Various,chill,Tamil,Film,0.476,0.782,77,81,Teen
+Motion,Boy Pablo,chill,English,Indie,0.436,0.533,87,81,Teen
+Georgia,Vance Joy,chill,English,Indie,0.419,0.526,94,84,Adult
+On and On,Erykah Badu,chill,English,Neo-Soul,0.3,0.663,96,80,Teen
+Breathe,Telepopmusik,chill,English,Electronic,0.483,0.507,81,81,Teen
+Dead Hearts,Stars,chill,English,Indie,0.529,0.652,102,79,Senior
+Experience,Ludovico Einaudi,focus,English,Classical,0.327,0.55,68,86,Young Adult
+Nuvole Bianche,Ludovico Einaudi,focus,English,Classical,0.218,0.57,103,84,Teen
+Time,Hans Zimmer,focus,English,Soundtrack,0.475,0.498,67,88,Senior
+Interstellar Theme,Hans Zimmer,focus,English,Soundtrack,0.425,0.324,94,87,Teen
+Clair de Lune,Claude Debussy,focus,English,Classical,0.494,0.588,70,86,Adult
+Moonlight Sonata,Beethoven,focus,English,Classical,0.415,0.59,97,85,Senior
+Canon in D,Pachelbel,focus,English,Classical,0.245,0.483,94,84,Senior
+Lofi Study Beats,ChilledCow,focus,English,Lo-Fi,0.352,0.589,92,83,Adult
+Space Ambient,Various,focus,English,Ambient,0.495,0.591,69,79,Senior
+Divenire,Ludovico Einaudi,focus,English,Classical,0.27,0.463,92,83,Senior
+Jai Ho Instrumental,A.R.Rahman,focus,Hindi,Soundtrack,0.304,0.473,80,81,Senior
+Roja Instrumental,A.R.Rahman,focus,Hindi,Soundtrack,0.258,0.579,80,80,Adult
+Focus Lofi,Various,focus,Tamil,Lo-Fi,0.386,0.481,74,77,Young Adult
+Deep Focus Piano,Various,focus,English,Classical,0.446,0.471,99,76,Senior
+Nocturne Op9,Chopin,focus,English,Classical,0.419,0.472,101,82,Teen
+Arrival of the Birds,Cinematic Orchestra,focus,English,Ambient,0.289,0.442,76,82,Adult
+Comptine d'un autre ete,Yann Tiersen,focus,English,Classical,0.355,0.486,84,84,Adult
+Air on G String,Bach,focus,English,Classical,0.31,0.459,79,83,Young Adult
+Divenire Slow,Einaudi,focus,English,Classical,0.225,0.367,70,82,Young Adult
+Weightless,Marconi Union,focus,English,Ambient,0.251,0.559,77,76,Adult
+Dynamite,BTS,party,English,K-Pop,0.987,0.95,130,92,Adult
+Butter,BTS,party,English,K-Pop,0.851,0.753,140,91,Adult
+As It Was,Harry Styles,party,English,Pop,0.828,0.763,130,94,Young Adult
+Dance Monkey,Tones and I,party,English,Pop,0.928,0.931,122,93,Teen
+Party Rock Anthem,LMFAO,party,English,EDM,0.918,0.863,136,88,Young Adult
+I Gotta Feeling,Black Eyed Peas,party,English,Pop,0.984,0.811,154,84,Teen
+Mr. Brightside,The Killers,party,English,Indie Rock,0.96,0.846,121,90,Teen
+Get Lucky,Daft Punk,party,English,Funk,0.846,0.945,158,88,Teen
+Hey Ya!,OutKast,party,English,Hip-Hop,0.989,0.778,150,89,Young Adult
+TiK ToK,Ke$ha,party,English,Pop,0.952,0.841,156,84,Adult
+Gallan Goodiyaan Party,Various,party,Hindi,Bollywood,0.966,0.988,131,86,Teen
+Balam Pichkari,Vishal-Shekhar,party,Hindi,Bollywood,0.924,0.928,158,85,Young Adult
+Aankh Marey,Tanishk Bagchi,party,Hindi,Bollywood,0.926,0.814,121,86,Young Adult
+Badshah Party,Badshah,party,Hindi,Hip-Hop,0.85,0.768,118,84,Senior
+Saami Saami,Thaman S,party,Telugu,Film,0.937,0.863,119,88,Adult
+Arabic Kuthu,Anirudh,party,Tamil,Film,0.94,0.919,137,90,Young Adult
+Seeti Maar,DSP,party,Telugu,Film,0.977,0.939,144,87,Young Adult
+Telephone,Lady Gaga,party,English,Pop,0.892,0.881,145,89,Adult
+DJ Waale Babu,Badshah,party,Hindi,Hip-Hop,0.961,0.767,125,83,Adult
+Levitating Remix,Dua Lipa,party,English,Pop,0.921,0.948,157,89,Senior
+Hanuman Chalisa,Gulshan Kumar,devotional,Hindi,Devotional,0.131,0.777,76,88,Adult
+Om Namah Shivaya,Various,devotional,Hindi,Devotional,0.225,0.713,57,82,Teen
+Jai Ganesh Deva,Various,devotional,Hindi,Devotional,0.322,0.792,73,80,Teen
+Vaishnav Jan To,Narsinh Mehta,devotional,Hindi,Bhajan,0.123,0.867,80,84,Teen
+Raghupati Raghav,Traditional,devotional,Hindi,Bhajan,0.35,0.772,63,82,Teen
+Gayatri Mantra,Various,devotional,Hindi,Mantra,0.291,0.608,71,83,Senior
+Vishnu Sahasranamam,Traditional,devotional,Hindi,Stotra,0.329,0.61,73,84,Senior
+Om Jai Jagdish Hare,Traditional,devotional,Hindi,Aarti,0.342,0.705,67,83,Adult
+Bhavani Ashtakam,Various,devotional,Telugu,Devotional,0.268,0.833,65,78,Senior
+Govinda Namalu,Various,devotional,Telugu,Devotional,0.172,0.862,79,80,Teen
+Suprabhatam,M.S.Subbalakshmi,devotional,Telugu,Classical,0.214,0.654,65,82,Senior
+Murugan Devotional,Various,devotional,Tamil,Devotional,0.316,0.822,55,78,Senior
+Thirupugal,Various,devotional,Tamil,Devotional,0.203,0.612,66,77,Senior
+Sai Baba Arati,Various,devotional,Hindi,Devotional,0.256,0.801,61,80,Young Adult
+Durga Chalisa,Various,devotional,Hindi,Devotional,0.332,0.695,76,80,Teen
+Sri Suktam,Traditional,devotional,Hindi,Vedic,0.107,0.758,79,81,Young Adult
+Pillaiyar Suzhi,Various,devotional,Tamil,Devotional,0.178,0.555,67,79,Young Adult
+Andal Pasuram,Various,devotional,Tamil,Classical,0.348,0.851,69,76,Teen
+Shiv Stuti,Various,devotional,Hindi,Devotional,0.262,0.601,83,80,Adult
+Lakshmi Ashtakam,Various,devotional,Telugu,Devotional,0.227,0.64,80,77,Senior
