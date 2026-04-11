@@ -9,6 +9,13 @@
 ╚══════════════════════════════════════════════════════════╝
 Run:  streamlit run app.py
 """
+import streamlit as st
+
+st.set_page_config(
+    page_title="Mood Music Recommender",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
 # ── Standard library ──────────────────────────────────────────────────────────
 import csv, hashlib, os, random, re
